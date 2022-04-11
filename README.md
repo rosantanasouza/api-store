@@ -20,13 +20,13 @@ em parceria com a [Let's Code](https://letscode.com.br/).
 
 ## Rodando localmente
 
-###Iniciando a API  
+### Iniciando a API  
 Dentro da pasta raiz do projeto Store, execute no seu terminal o comando:
   
     mvn spring-boot:run
 
 
-##Considerações importantes
+## Considerações importantes
 
 - Configurações do banco de dados:
 
@@ -46,7 +46,7 @@ Dentro da pasta raiz do projeto Store, execute no seu terminal o comando:
       Usuário: root
       Senha: acesso
 
-  ####Observação: Essas configurações podem ser alteradas de acordo com sua necessidade.
+  #### Observação: Essas configurações podem ser alteradas de acordo com sua necessidade.
 
 
 ## Endpoints para acesso aos dados
